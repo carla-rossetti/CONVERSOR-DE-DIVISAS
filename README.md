@@ -74,6 +74,12 @@
    <a href="https://www.linkedin.com/in/carla-rossetti/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
    </a><br><br>
-   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><br><br>
-   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><br><br>
+
+   <a href="https://www.instagram.com/carlarossettiprogrammer/">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+   </a><br><br>
+
+   <a href="https://www.youtube.com/@carlarossetti">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+   </a><br><br>
 </p>
