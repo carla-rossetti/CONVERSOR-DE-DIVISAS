@@ -70,7 +70,7 @@
 </p>
 
 <h2>Conversor X Contacto</h2>
-<p align="left"> Click en el botón:
+<p align="left"> CLICKEA EL BOTÓN:     
    <a href="https://www.linkedin.com/in/carla-rossetti/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
    </a><br><br>
