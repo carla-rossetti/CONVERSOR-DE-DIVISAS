@@ -69,7 +69,7 @@
    Todas las consultas y solicitudes de uso deben dirigirse al titular  del copyright a través del correo electrónico: carlarominasrossetti@gmail.com
 </p>
 
-<h2>Redes Sociales</h2>
+<h2>Conversor X Contacto</h2>
 <p align="left">
    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><br>
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><br>
