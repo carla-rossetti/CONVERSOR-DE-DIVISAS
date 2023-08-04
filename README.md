@@ -51,7 +51,7 @@
 
 <h2>Conversor X Créditos</h2>
 
-<p>Un agradecimiento enorme a Oracle por crear programas gratuitos de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento y hacer que las desventajas se conviertan en sueños realizables.</p>
+<p>Un agradecimiento enorme a Oracle por crear programas gratuitos de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento y hacer que las desventajas socio económicas se conviertan en sueños realizables.</p>
 
 <h2>Redes Sociales</h2>
 <p align="left">
