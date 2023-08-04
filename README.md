@@ -26,7 +26,13 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/d1.jpg">
 
-<p></p>
+<p>2 Conversión de temperatura, para el que se utilizó el sistema internacional de unidades de medida de temperatura.</p>
+
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/t1.jpg">
+
+<p>3 Conversión de numeración, para el que se utilizó el sistema internacional de numeración decimal, binario, hexadecimal y octal.</p>
+
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/n1.jpg">
 
 
 <h2>Redes Sociales</h2>
