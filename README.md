@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
-<h2>Conversor X tiene inicio de sesión:</h2>
+<h2>Conversor X tiene Inicio de Sesión:</h2>
 
 <p>Para ingresar al sistema el Usuario= <b>admin</b> y la Contraseña= <b>1234</b></p>
 
