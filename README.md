@@ -17,7 +17,7 @@
 
 <h2>Conversor X tiene Inicio de Sesión:</h2>
 
-<p>Para ingresar al sistema el Usuario= <strong>admin</strong> y la Contraseña= <b>1234</b></p>
+<p>Para ingresar al sistema el Usuario es <b>admin</b> y la Contraseña es <b>1234</b></p>
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l1.jpg">
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l2.jpg">
