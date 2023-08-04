@@ -56,7 +56,13 @@
 <h2>Conversor X Licencia</h2>
 
 <p>© copyright 2023 Carla Romina Soledad Rossetti & Alura Latam.<br>
-
+   Queda prohibida la reproducción total o parcial, distribución, publicación o cualquier otro uso comercial o público sin el consentimiento expreso por escrito del titular del 
+   copyright.<br>
+   Sin embargo, se permite el uso privado y personal del proyecto, siempre y cuando no implique la reproducción o distribución pública, y se reconozca adecuadamente la autoría del 
+   mismo.<br>
+   Cualquier infracción de los derechos de autor será perseguida legalmente de acuerdo con las leyes vigentes.<br>
+   Este copyright protege la integridad y originalidad del proyecto, con el propósito de garantizar su respeto y evitar el plagio o uso no autorizado.<br>
+   No nos hacemos responsables por los daños que puedan ocasionar el uso no autorizado o inadecuado del proyecto.
 </p>
 
 <h2>Redes Sociales</h2>
