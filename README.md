@@ -15,7 +15,7 @@
 
 <h2>Conversor X tiene inicio de sesión para la entrada:</h2>
 
-<p>Para ingresar al sistema el Usuario= admin y la Contraseña= 1234</p>
+<p>Para ingresar al sistema el Usuario= <b>admin</b> y la Contraseña= <b>1234</b></p>
 
 <img src="">
 <img src="">
