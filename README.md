@@ -1,4 +1,4 @@
-<h1>Conversor<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/logo.png" width="40px">
+<h1>Conversor<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/logo.png" width="30px">
      X - Oracle & Alura Latam Backend Challenge
 </h1>
 <h4>Conversor X V1.0 creado por Carla Romina Soledad Rossetti para un challenge de la institución educativa Alura Latam que forma parte del programa One-Oracle Next Education impartido por Oracle Corporation.</h4>
