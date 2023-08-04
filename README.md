@@ -15,6 +15,10 @@
 
 <h2>Conversor X tiene tres apartados:</h2>
 
+<p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
+
+<img src="">
+
 
 <h2>Redes Sociales</h2>
 <p align="left">
