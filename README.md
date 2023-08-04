@@ -24,7 +24,9 @@
 
 <p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
 
-<img src="">
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/d1.jpg">
+
+<p></p>
 
 
 <h2>Redes Sociales</h2>
