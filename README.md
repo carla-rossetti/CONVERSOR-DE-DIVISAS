@@ -13,9 +13,12 @@
    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
-<h2>Conversor X tiene inicio de sesión</h2>
+<h2>Conversor X tiene inicio de sesión para la entrada:</h2>
 
-<p>Para la entrada Usuario= admin y Contraseña= 1234</p>
+<p>Para ingresar al sistema el Usuario= admin y la Contraseña= 1234</p>
+
+<img src="">
+<img src="">
 
 <h2>Conversor X tiene tres apartados:</h2>
 
