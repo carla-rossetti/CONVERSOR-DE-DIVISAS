@@ -51,7 +51,11 @@
 
 <h2>Conversor X Créditos</h2>
 
-<p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos los compañeros que día a día la batallan como una.</p>
+<p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos mis compañeros del programa One - Oracle Next Education</p>
+
+<h2>Conversor X Licencia</h2>
+
+<p></p>
 
 <h2>Redes Sociales</h2>
 <p align="left">
