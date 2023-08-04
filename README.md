@@ -34,7 +34,7 @@
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/n1.jpg">
 
 <h2>Conversor X - Instalación:</h2>
-<link href="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/Conversor%20X.exe">
+<a href="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/Conversor%20X.exe"></a>
 
 
 
