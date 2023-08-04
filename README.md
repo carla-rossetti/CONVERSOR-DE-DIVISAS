@@ -63,7 +63,8 @@
    mismo.<br>
    Cualquier infracción de los derechos de autor será perseguida legalmente de acuerdo con las leyes vigentes.<br>
    Este copyright protege la integridad y originalidad del proyecto, con el propósito de garantizar su respeto y evitar el plagio o uso no autorizado.<br>
-   No nos hacemos responsables por los daños que puedan ocasionar el uso no autorizado o inadecuado del proyecto.
+   No nos hacemos responsables por los daños que puedan ocasionar el uso no autorizado o inadecuado del proyecto.<br>
+   Todas las consultas y solicitudes de uso deben dirigirse al titular  del copyright a través del correo electrónico: carlarominasrossetti@gmail.com
 </p>
 
 <h2>Redes Sociales</h2>
