@@ -49,6 +49,10 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
+<h2>Conversor X Créditos</h2>
+
+<p></p>
+
 <h2>Redes Sociales</h2>
 <p align="left">
    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><br>
