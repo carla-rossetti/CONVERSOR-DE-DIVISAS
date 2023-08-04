@@ -55,7 +55,9 @@
 
 <h2>Conversor X Licencia</h2>
 
-<p></p>
+<p>© copyright 2023 Carla Romina Soledad Rossetti & Alura Latam.<br>
+
+</p>
 
 <h2>Redes Sociales</h2>
 <p align="left">
