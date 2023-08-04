@@ -13,6 +13,9 @@
    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
+<h2>Conversor X tiene tres apartados:</h2>
+
+
 <h2>Redes Sociales</h2>
 <p align="left">
    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"><br>
