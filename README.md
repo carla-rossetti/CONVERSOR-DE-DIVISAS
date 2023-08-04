@@ -47,7 +47,7 @@
    <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black">
 </p>
 
-<img src="">
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
 <h2>Redes Sociales</h2>
 <p align="left">
