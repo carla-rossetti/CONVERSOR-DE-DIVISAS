@@ -71,7 +71,7 @@
 
 <h2>Conversor X - Contacto:</h2>
 <p align="left">
-   <p>Clickea el botón: &nbsp &nbsp</p>
+   <p>Para ingresar a mis redes sociales clickea los botones:</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
    </a><br><br>
