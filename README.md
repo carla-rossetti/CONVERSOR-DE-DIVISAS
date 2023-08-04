@@ -4,13 +4,14 @@
 
 <p align="left">
    <img src="https://img.shields.io/badge/VERSI%C3%93N-V1.0-rgb(15%2C128%2C193)">
-   <img src="https://img.shields.io/badge/ESTADO-FINALIZADO-brightgreen">
-   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white">
+   <img src="https://img.shields.io/badge/ESTADO-FINALIZADO-brightgreen">  
 </p>
 
 <p align="left">
    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+   <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
+    <img src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white">
 </p>
 
 <h2>Conversor X tiene Inicio de Sesión:</h2>
