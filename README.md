@@ -49,13 +49,13 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
-<h2>Conversor X - Créditos</h2>
+<h2>Conversor X - Créditos:</h2>
 
 <p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos mis compañeros del programa One - Oracle Next Education por compartir sus habilidades con la comunidad.</p>
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/o1.png">
 
-<h2>Conversor X - Licencia</h2>
+<h2>Conversor X - Licencia:</h2>
 
 <p>© copyright 2023 Carla Romina Soledad Rossetti & Alura Latam.<br>
    Todos los derechos reservados.<br>
@@ -69,7 +69,7 @@
    Todas las consultas y solicitudes de uso deben dirigirse al titular  del copyright a través del correo electrónico: carlarominasrossetti@gmail.com
 </p>
 
-<h2>Conversor X - Contacto</h2>
+<h2>Conversor X - Contacto:</h2>
 <p align="left">
    <p>Clickea el botón: &nbsp &nbsp</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
