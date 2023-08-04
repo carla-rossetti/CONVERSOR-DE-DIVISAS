@@ -13,6 +13,10 @@
    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </p>
 
+<h2>Conversor X tiene inicio de sesión</h2>
+
+<p>Para la entrada Usuario= admin y Contraseña= 1234</p>
+
 <h2>Conversor X tiene tres apartados:</h2>
 
 <p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
