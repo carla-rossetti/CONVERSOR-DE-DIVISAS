@@ -17,8 +17,8 @@
 
 <p>Para ingresar al sistema el Usuario= <b>admin</b> y la Contraseña= <b>1234</b></p>
 
-<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/login1.jpg">
-<img src="">
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l1.jpg">
+<img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l2.jpg">
 
 <h2>Conversor X tiene tres apartados:</h2>
 
