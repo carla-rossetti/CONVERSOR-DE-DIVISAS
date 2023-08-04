@@ -16,14 +16,14 @@
    <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
 </p>
 
-<h2>Conversor X tiene Inicio de Sesión:</h2>
+<h2>Conversor X - Inicio de Sesión:</h2>
 
 <p>Para ingresar al sistema el Usuario es <b>admin</b> y la Contraseña es <b>1234</b></p>
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l1.jpg">
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/l2.jpg">
 
-<h2>Conversor X tiene tres apartados:</h2>
+<h2>Conversor X - Apartados:</h2>
 
 <p>1 Conversión de divisas, para el que se utilizó una biblioteca de código abierto de Google conocida como GSON, ubicada en el repositorio central Maven de Sonatype. Para la comunicación mediante API se utilizó el servicio host gratuito Exchange rates.</p>
 
@@ -37,7 +37,7 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/n1.jpg">
 
-<h2>Conversor X Instalación:</h2>
+<h2>Conversor X - Instalación:</h2>
 
 <p>Para la instalación se creó un archivo .jar que se puede ejecutar en múltiples plataformas con la versión 17.0.7 de la máquina virtual de Java (JVM). También se creó un archivo .exe para su ejecución en la plataforma de Windows.</p>
 
@@ -49,13 +49,13 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
-<h2>Conversor X Créditos</h2>
+<h2>Conversor X - Créditos</h2>
 
 <p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos mis compañeros del programa One - Oracle Next Education por compartir sus habilidades con la comunidad.</p>
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/o1.png">
 
-<h2>Conversor X Licencia</h2>
+<h2>Conversor X - Licencia</h2>
 
 <p>© copyright 2023 Carla Romina Soledad Rossetti & Alura Latam.<br>
    Todos los derechos reservados.<br>
@@ -69,7 +69,7 @@
    Todas las consultas y solicitudes de uso deben dirigirse al titular  del copyright a través del correo electrónico: carlarominasrossetti@gmail.com
 </p>
 
-<h2>Conversor X Contacto</h2>
+<h2>Conversor X - Contacto</h2>
 <p align="left">
    <p>Clickea el botón: &nbsp &nbsp</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
