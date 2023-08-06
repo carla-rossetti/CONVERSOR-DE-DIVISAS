@@ -83,4 +83,9 @@
    <a href="https://www.youtube.com/@carlarossetti">
       <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
    </a>
+
+   <h2>Conversor X - Logro obtenido:</h2>
+
+   <img src="">
+   
 </p>
