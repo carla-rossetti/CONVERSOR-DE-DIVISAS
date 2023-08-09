@@ -54,7 +54,7 @@
 
 <p>Para ver el video clickea sobre la foto:</p>
 
-[![Video de Demostración](https://img.youtube.com/vi/cyiH863Dr3c/0.jpg)](https://www.youtube.com/watch?v=cyiH863Dr3c)
+[![Video de Demostración](https://img.youtube.com/vi/cyiH863Dr3c/0.jpg)](https://www.youtube.com/watch?v=cyiH863Dr3c){:height="400px" width="600px"}
 
 <h2>Conversor X - Créditos:</h2>
 
