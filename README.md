@@ -52,6 +52,8 @@
 
 <h2>Conversor X - Video:</h2>
 
+<p>Para ver el video clickea sobre la foto:</p>
+
 [![Video de Demostración](https://img.youtube.com/vi/cyiH863Dr3c/0.jpg)](https://www.youtube.com/watch?v=cyiH863Dr3c)
 
 <h2>Conversor X - Créditos:</h2>
