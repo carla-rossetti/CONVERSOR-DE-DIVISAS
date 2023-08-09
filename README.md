@@ -50,6 +50,10 @@
 
 <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/i1.jpg">
 
+<h2>Conversor X - Video en Youtube:</h2>
+
+[![Video de Demostración](https://img.youtube.com/vi/cyiH863Dr3c/0.jpg)](https://www.youtube.com/watch?v=cyiH863Dr3c)
+
 <h2>Conversor X - Créditos:</h2>
 
 <p>Un agradecimiento enorme a Oracle por crear un programa gratuito de enseñanza donde se fomenta el crecimiento personal y profesional. Un mismo agradecimiento enorme a todos los que son parte de Alura Latam por impartir su conocimiento a toda la comunidad de futuros desarrolladores y ser los mediadores para que los sueños se vuelvan realidad. Finalmente un agradecimiento a todos mis compañeros del programa One - Oracle Next Education por compartir sus habilidades con la comunidad.</p>
