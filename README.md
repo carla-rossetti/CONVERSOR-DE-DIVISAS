@@ -80,15 +80,15 @@
 <p align="left">
    <p>Para ingresar a mis redes sociales clickea los botones:</p>
    <a href="https://www.linkedin.com/in/carla-rossetti/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/in.png">
    </a>
 
    <a href="https://www.instagram.com/carlarossettiprogrammer/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/ig.png">
    </a>
 
    <a href="https://www.youtube.com/@carlarossetti">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+      <img src="https://github.com/carla-rossetti/CONVERSOR-DE-DIVISAS/blob/main/src/imagenes_X/yt.png">
    </a>
 </p>
 
